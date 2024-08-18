@@ -1,0 +1,7 @@
+{
+    "Name": "forceresolution",
+    "ID": "forceresolution",
+    "Version": "1.0.0",
+    "Description": "Allows you to set a custom resolution for the game",
+    "Dependencies": []
+}
